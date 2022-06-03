@@ -28,5 +28,5 @@ let getDays = (first, second) => {
 
   return diffDays;
 };
-///console.log / using node to see results came out
+///console.log / using node.js to see results came out
 console.log(getDays("June 14,2019", "June 20,2019")); ///prints out 6
